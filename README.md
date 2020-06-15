@@ -1,1 +1,2 @@
 # python_api_challenge
+Created a Python script to visualize 500+ cities around the world at various distances from the equator (WeatherPy). Looked at temperature, humidity, cloudiness and wind speed. Working with this data I narrowed down the search for the best vacation spot (VacationPy). I used a maximum temperature of 90 degrees, a minimum temperature of 73 degrees, a windspeed of less than 10mph and a 0 score for cloudiness. I also found the closest hotels that met these requirements. 
